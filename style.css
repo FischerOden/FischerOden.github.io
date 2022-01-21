@@ -20,14 +20,8 @@
 body {
   background-color: black;
   color: white;
-  font-family: Consolas;
-  cursor: crosshair;
+  font-family: "Courier";
   text-align: center;
-}
-
-#copy {
-  font-size: x-small;
-  margin-top: 1rem;
 }
 
 #pfp {
@@ -48,4 +42,13 @@ header {
 
 #stadshuset {
   border-radius: 50%;
+  width: 336px;
+}
+
+#dwebInfo {
+  font-size: x-small;
+}
+
+footer {
+  padding-top: 1rem;
 }
