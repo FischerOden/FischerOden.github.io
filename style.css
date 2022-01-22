@@ -52,3 +52,8 @@ header {
 footer {
   padding-top: 1rem;
 }
+
+#ipfsIcon {
+  width: 16px;
+  height: 16px;
+}
