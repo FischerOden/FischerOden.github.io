@@ -38,6 +38,8 @@ body {
 
 header {
   margin-bottom: 1rem;
+  position: sticky;
+  top: 0;
 }
 
 #stadshuset {
